@@ -1,0 +1,100 @@
+body {
+  background-image: url(http://fullhdpictures.com/wp-content/uploads/2015/10/HQ-Game-of-Thrones-Wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#title {
+  text-align: center;
+  margin: 10px;
+}
+
+/*IMAGES*/
+
+#images {
+  text-align: center;
+}
+
+.image {
+  width: 150px;
+  margin: 0 50px;
+  display: inline-block;
+}
+
+
+.char-image{
+  height: 150px;
+  width: 150px;
+  border-radius: 10%;
+  border-style: solid;
+  border-size: 2px;
+  border-color: white;
+}
+
+.char-name {
+display: inline-block;
+margin: 0px;
+}
+
+/*FORMS*/
+
+#guess {
+  display: inline-block;
+  float: left;
+}
+
+#new {
+  margin-top: 20px;
+  display: inline-block;
+  float: right;
+}
+
+.label {
+  display: inline-block;
+}
+
+form {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h4 {
+  margin-right: 20px;
+  font-size: 20px;
+  font-family: serif;
+}
+
+p {
+  margin: 0;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+select {
+  margin-right: 20px;
+}
+
+select {
+  background-color: black;
+  color: white;
+  opacity: 0.7;
+  font-size: 20px;
+  font-family: serif;
+}
+
+ input {
+  background-color: black;
+  opacity: 0.7;
+  font-size: 20px;
+  color: white;
+  font-family: serif;
+  text-decoration: none;
+}
+
+
+
+
+
+
